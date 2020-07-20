@@ -11,7 +11,7 @@
     "bootstrap-daterangepicker": "^3.0.5",
     "classnames": "^2.2.6",
     "font-awesome": "^4.7.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jwt-decode": "^2.2.0",
     "moment": "^2.24.0",
     "node-sass": "^4.13.0",
