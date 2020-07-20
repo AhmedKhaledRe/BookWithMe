@@ -8,7 +8,7 @@ export function LoggedInRoute(props) {
 
   return (
     <Route {...rest} render={(props) => authService.isAuthenticated()
-                                        ? <Redirect to={{pathname: '/messeges'}}/>
+                                        ? <Redirect to={{pathname: '/rentals'}}/>
                                         : <Component {...props} {...rest} /> }/>
     )
 }
